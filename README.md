@@ -3,6 +3,7 @@
 - 手机 : 8618316966947
 - Email : 00g0@qq.com
 - Wechat : dajia18316966947
+- Cocos Store : 521011
 
 ## 个人信息
 
@@ -19,8 +20,8 @@
 - 语言: typescript/javascript/html/css
 - 框架: cocos-oops/mvc
 - 数据库: mysql
-- 版本管理 : git/svn
-- 图集整理:texture merge/texture packer/bitmap font
+- 版本管理: git/svn
+- 图集整理: texture merge/texture packer/bitmap font
 
 ## 项目经历
 
@@ -155,9 +156,8 @@
     - 解决exml中小数点长后缀导致的无用字符过多问题 ： https://gitee.com/dajia9404/exml
 - Texture-Compator,基于cocoscreator的有损压缩png方案
     - 项目源码地址：https://gitee.com/dajia9404/texture-compator
-- 佛山张翰的搞笑小游戏
-    - 项目源码地址：https://gitee.com/dajia9404/music.git
-    - 演示地址：https://www.bilibili.com/video/BV1DN41147vJ?vd_source=03041d95cb4ef46aef42edd05d071c60
+- cocos creator 横轴渐变Shader着色方案
+    - 该方案上架Cocos store , 商品地址 ：https://store.cocos.com/app/detail/5756 
 
 ## 自我评价
 
