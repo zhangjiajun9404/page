@@ -18,7 +18,7 @@
 
 - 引擎：cocoscreator/egret/nodejs
 - 语言: typescript/javascript/html/css
-- 框架: cocos-oops/mvc
+- 框架: cocos-oops-framework/pure-mvc
 - 数据库: mysql
 - 版本管理: git/svn
 - 图集整理: texture merge/texture packer/bitmap font
@@ -105,13 +105,13 @@
 
 #### 项目描述
 
-暖暖蛋糕屋是一款自研经营竞技游戏,前端使用CocosCreator,后端使用nodejs。本人参与项目的研发，上线发布等流程。
+暖暖蛋糕屋是一款自研经营竞技游戏,前端使用CocosCreator,后端使用nodejs。参与了该项目的研发，上线发布等流程。
 
 #### 我负责过
 
 - 搭建加载,主界面，游戏，结算等界面
 - 根据cocoscreator提供的spine接口，封装spine动画，外部只需调用动画id即可完成播放
-- 实现游戏中顾客生成时动画，所需蛋糕动画，以及不耐烦动画逻辑
+- 实现游戏中顾客生成时动画，所需蛋糕动画，以及动画逻辑
 - 利用双向链表将蛋糕material串联，串联合成目标蛋糕并拖拽到指定顾客完成需求，从而提交到nodejs得分
 - 利用websocket协议和json数据结构，进行前后端数据同步，并于服务端生成客户端所需蛋糕并下发给前端
 - 利用cocoscreator打包html5命令行，调用命令行并使用windows下zip命令进行压缩封包，再利用filezilla部署到云服务器提供外部访问
@@ -125,7 +125,7 @@
 
 #### 项目描述
 
-欢乐祖玛是一款使用CocosCreator研发的自研祖玛消除游戏。本人参与立项，需求列表，任务分配，跟进开发以及流程发布上线等流程。
+欢乐祖玛是一款使用CocosCreator研发的自研祖玛消除游戏。参与了立项，需求列表，任务分配，跟进开发以及流程发布上线等流程。
 
 #### 我负责过
 
@@ -154,15 +154,21 @@
 
 - exml文件替换多余小数点后缀
     - 解决exml中小数点长后缀导致的无用字符过多问题 ： https://gitee.com/dajia9404/exml
-- Texture-Compator,基于cocoscreator的有损压缩png方案
+- Texture-Compator,美术资源基于cocoscreator的有损压缩png方案
     - 项目源码地址：https://gitee.com/dajia9404/texture-compator
-- cocos creator 横轴渐变Shader着色方案
+- cocos creator 文本横轴渐变Shader着色方案
     - 该方案上架Cocos store , 商品地址 ：https://store.cocos.com/app/detail/5756 
+- cocos creator 文本纵轴渐变Shader着色方案
+    - 该方案上架Cocos store , 商品地址 ：https://store.cocos.com/app/detail/5832
+- cocos creator 在Shader中利用uv偏移实现背景无限滚动方案
+    - 该方案上架Cocos store , 商品地址 ：https://store.cocos.com/app/detail/5779
+- cocos creator 在Shader中利用uv进行镜像翻转节省美术资源
+    - 该方案上架Cocos store , 商品地址 ：https://store.cocos.com/app/detail/5767
 
 ## 自我评价
 
 - 有较强的责任心，良好的沟通能力和团队协作能力
-- 喜欢专研新技术
+- 喜欢专研新技术，喜欢封装各种各样的工具库为已所用
 - 有良好的抗压能力
 
 
