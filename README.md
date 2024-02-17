@@ -164,6 +164,8 @@
     - 该方案上架Cocos store , 商品地址 ：https://store.cocos.com/app/detail/5779
 - cocos creator 在Shader中利用uv进行镜像翻转节省美术资源
     - 该方案上架Cocos store , 商品地址 ：https://store.cocos.com/app/detail/5767
+- cocos creator 三色渐变shader文本方案
+    - 商品地址 ：https://store.cocos.com/app/detail/5860
 
 ## 自我评价
 
