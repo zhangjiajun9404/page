@@ -7,13 +7,14 @@
 ## 个人优势
 - 7年游戏开发经验
 - 了解游戏从0到1到上线的流程
-- 热爱游戏，能承受压力
-- 熟练Typescript/Nodejs/CocosCreator/Egret/Unity/C#等
+- 热爱游戏，能承受压力 [ itch个人游戏集 : https://zhangjiajun.itch.io/ ]
+- 熟练Ts/CocosCreator/Unity/C#等
 - 能独立承担复杂系统开发，会使用各种设计模式和算法
 - 有较强的沟通，组织，协同能力
 - 有带领6人团队经验
 - 有Sdk接入能力
-- 会开发工具链，拓展优化引擎
+- 会开发工具链 [CocosCreator个人工具链集 : https://store.cocos.com/app/search?name=521011 ]
+
 
 ## 项目经历
 
