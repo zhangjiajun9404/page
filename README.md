@@ -4,7 +4,6 @@
 
 #### 个人优势
 - 9年经验，了解游戏从0到1的过程，擅长执行业务和扁平管理团队
-- 了解cocoscreator , typescript , javascript , laya , egret , nodejs , mysql , java,unity,c#等引擎或语言
 - 脾气好，不怕加班和修改，肯学，与时俱进不落后
 
 #### 个人作品
@@ -20,3 +19,11 @@
 - 抓小猪（已停运），传送门 ：： http://47.92.69.76/zhua_xiao_zhu/web-desktop/index.html
 - ⭐消灭星星（植入app），传送门 ：： http://47.92.69.76/popstar/web-desktop/index.html
 - ⭐2048蜘蛛纸牌（已停运），传送门：：http://47.92.69.76/card/index.html
+
+#### 个人技能
+- 熟悉使用cocos creator，laya，egret等h5游戏引擎
+- 熟练使用typescript , 了解HTTP、WebSocket
+- 熟练使用markdown和流程图整理思路和接口
+- 熟练使用nodejs和python推进项目自动化
+- 熟悉接入各类SDK，上线过项目到微信小游戏等其它小游戏平台
+- 对引擎性能调试和优化，以及资源加载优化有一定的了解
